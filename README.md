@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduhpicolo" alt="eduhpicolo" /></a> </p>
 
-- 🔭 I’m currently working on **Hax 2.0**
+- 🔭 I’m currently working on **IOT**
 
-- 📫 How to reach me **ex@hax.la**
+- 📫 How to reach me **eduhpicolo@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
