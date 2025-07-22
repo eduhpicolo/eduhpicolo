@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **IOT**
 
-- 📫 How to reach me **eduhpicolo@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
